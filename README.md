@@ -1,4 +1,4 @@
-# AKS-CNI-kUBENET
+# AKS-CNI-KUBENET
 Repo for automation of AKS Kubenet and CNI using az-cli
 
 __Install Az-cli using script:__<br>
